@@ -1,0 +1,3 @@
+# CI replay marker for lint/golangci-lint
+feature_branch: replay-a2e4cba1
+workflow: .github/workflows/golangci-lint.yml
